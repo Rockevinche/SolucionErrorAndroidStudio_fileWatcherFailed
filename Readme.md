@@ -10,7 +10,7 @@
 
 1) Ir a la carpeta donde está instalado Android Studio ".../android-studio/bin/" y buscar el archivo ejecutable "fsnotifier" para luego borrarlo
 
-2) Ejecutar el archivo "make.sh" en consola con el comando $ ./make.sh (OJO: Debes tener instalado "Clang" para poder compilar los archivos para crear el fsnotifier). Esto compilará nuestro nuevo archivo ejecutable "fsnotifier"
+2) Ejecutar el archivo "make.sh" en consola con el comando $ ./make.sh (Debes tener instalado "Clang" para poder compilar los archivos para crear el fsnotifier). Esto compilará nuestro nuevo archivo ejecutable "fsnotifier"
 
 3) Copiar el nuevo archivo "fsnotifier" en la carpeta de instalación de Android Studio ".../android-studio/bin/"
 
